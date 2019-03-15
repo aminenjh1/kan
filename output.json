@@ -2,13 +2,13 @@
 {"Version":[
    {
    "version": "2",
-   "error": "01"
+   "error": "02"
    }
            ],
 "Controle":[
    { 
    "version": "2",
-   "error": "01" 
+   "error": "02" 
    } 
             ]
 } 
